@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tapped-byte
-- 👀 I’m interested in Maping
+- 👀 I’m interested in mapping
 - 🌱 I’m currently learning Phyton
 - 💞️ I’m looking to collaborate on Artificial neural network
 - 📫 How to reach me I have my team sorry =)
